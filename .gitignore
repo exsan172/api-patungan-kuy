@@ -27,4 +27,4 @@ coverage
 benchmarks/graphs
 
 #env
-./configs/env.config.ts
+configs/env.config
